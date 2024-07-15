@@ -4,7 +4,7 @@
 ### *Sobre mim:*
 De uma mera curiosidade, tornou-se uma grande paixão!
 
-Sou formado em Direito pela Universidade Tuiuti do Paraná, Advogado [**[OAB/PR 102.072]***](https://www.oabpr.org.br/servicos-consulta-de-advogados/lista-de-advogados/?nr_inscricao=102072&nome=&cidade=0&especialidade=0&situacao=), o interesse pela programação adveio da necessidade de compreender o "*HTML*" para criar uma LandingPage que iria receber tráfego (Meta Ads e Google Ads), a partir deste momento, o mundo da programação começou a me fascinar, hoje estou me aperfeiçoando em JAVA com ênfase em Back.
+Sou formado em Direito pela Universidade Tuiuti do Paraná, Advogado [**[OAB/PR 102.072]**](https://www.oabpr.org.br/servicos-consulta-de-advogados/lista-de-advogados/?nr_inscricao=102072&nome=&cidade=0&especialidade=0&situacao=), o interesse pela programação adveio da necessidade de compreender o "*HTML*" para criar uma LandingPage que iria receber tráfego (Meta Ads e Google Ads), a partir deste momento, o mundo da programação começou a me fascinar, hoje estou me aperfeiçoando em JAVA com ênfase em Back.
 
 Precisa de ajuda jurídica para adequar-se a Lei Geral de Proteção de Dados - LGPD [[Lei n° 13.709/2018]](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) e não sofrer punições, ou ajuda para o *juridiquês* dos contratos de prestação de serviço? 
 
